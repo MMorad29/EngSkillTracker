@@ -9,7 +9,12 @@ import {
 } from "@/components/ui/accordion";
 
 export default function Progress() {
-  const [progressData, setProgressData] = useState(null);
+  interface ProgressData {
+    technicalSkills: Record<string, Record<string, string[]>>;
+    humanSkills: Record<string, Record<string, string[]>>;
+  }
+
+  const [progressData, setProgressData] = useState<ProgressData | null>(null);
 
   useEffect(() => {
     fetch("/data/progress.json")
