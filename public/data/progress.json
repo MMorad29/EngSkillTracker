@@ -1,0 +1,104 @@
+{
+  "technicalSkills": {
+    "Software Design & Architecture (Design)": {
+      "Week 6": [
+        "Reviewed Figma standards and ensured UI design met requirements for new button feature and UI fixes."
+      ]
+    },
+    "Software at Scale (Build)": {
+      "Week 4": ["Completed frontend changes for Smart Home Loan experience."],
+      "Week 6": ["Updated outdated libraries to resolve SonarQube warnings."]
+    },
+    "Reliability & Observability (Run)": {
+      "Week 4": [
+        "Performed end-to-end testing locally.",
+        "Deployed changes to Melbourne and Sydney testing environments."
+      ],
+      "Week 6": [
+        "Finalized proxy URL task and confirmed it was ready for testing."
+      ]
+    },
+    "DevOps Delivery Pipelines (Run)": {
+      "Week 4": ["Used TeamCity to deploy changes."],
+      "Week 6": [
+        "Marked assigned production releases in Q4 for better planning and management."
+      ]
+    },
+    "Software Test Engineering (Challenge)": {
+      "Week 4": ["Wrote comprehensive unit tests to ensure full coverage."],
+      "Week 6": [
+        "Wrote unit tests for new button functionality to ensure correct navigation and behavior."
+      ]
+    },
+    "Engineering Security Perspective (Challenge)": {
+      "Week 6": [
+        "Resolved SonarQube warnings related to outdated libraries, improving code quality and security."
+      ]
+    },
+    "AI-Powered Engineering": {
+      "Week 5": [
+        "Used GitHub Copilot to assist with completing assigned tasks."
+      ],
+      "Week 6": [
+        "Used GitHub Copilot to assist with completing assigned tasks."
+      ]
+    }
+  },
+  "humanSkills": {
+    "Active Learning": {
+      "Week 1": [
+        "Completed all mandatory learning.",
+        "Earned Secure Code Warrior certificate.",
+        "Achieved 91.75% in the Engineering Front End module.",
+        "Attended Testing Minimum Standards training."
+      ],
+      "Week 2": [
+        "Connected with a Melbourne-based software developer for environment setup and project onboarding."
+      ],
+      "Week 3": [
+        "Switched from MacBook to Windows for better development experience."
+      ],
+      "Week 5": [
+        "Completed records management module, learning about retention and record types."
+      ],
+      "Week 6": [
+        "Attended the Big Room Planning (BRP) session and final crew playback to understand Q4 planning and expectations."
+      ]
+    },
+    "Constructive Challenge": {
+      "Week 5": [
+        "Raised issue with product manager about running low on tasks and requested more work."
+      ],
+      "Week 6": [
+        "Discussed assigned tasks with the manager and took initiative to complete them efficiently."
+      ]
+    },
+    "Problem Solving": {
+      "Week 5": ["Fixed regex validation issue in expert bot."],
+      "Week 6": [
+        "Fixed UI issues based on Figma designs and expected changes.",
+        "Resolved SonarQube warnings by updating outdated libraries."
+      ]
+    },
+    "Leadership Principles": {
+      "Week 1": [
+        "Attended and collaborated in graduate program meetings.",
+        "Attended daily team stand-ups."
+      ],
+      "Week 5": [
+        "Attended graduate committee meeting.",
+        "Attended Big Room Planning (BRP) preparation session."
+      ],
+      "Week 6": [
+        "Took ownership of tasks during planning discussions.",
+        "Proactively marked production releases in the calendar for better expectation management."
+      ]
+    },
+    "Risk Management - Better Risk Outcomes": {
+      "Week 6": [
+        "Ensured UI changes followed best practices for mobile responsiveness and navigation.",
+        "Improved code reliability by addressing SonarQube warnings."
+      ]
+    }
+  }
+}
